@@ -1,0 +1,3 @@
+﻿Hotkey=Alt|F3
+InitDir=C:\Users\
+Explorer=C:\Windows\explorer.exe
